@@ -1,12 +1,18 @@
 body{
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: rgb(26, 26, 26);
+}
+
+h2{
+    font-weight: 300;
 }
 
 .btn{
     height: 200px;
     width: 200px;
     border-radius: 20%;
-    border: 5px solid black;
     margin: 2rem;
 }
 
